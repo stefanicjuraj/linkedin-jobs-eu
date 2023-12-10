@@ -1,6 +1,20 @@
 <?php
 $page = basename($_SERVER['REQUEST_URI']);
-$pages = []
+$pages = [
+    'Frontend' => ['url' => '/frontend', 'icon' => 'desktop-outline'],
+    'Backend' => ['url' => '/backend', 'icon' => 'server-outline'],
+    'Data' => ['url' => '/data', 'icon' => 'analytics-outline'],
+    'Full Stack' => ['url' => '/full-stack', 'icon' => 'code-working-outline'],
+    'DevOps' => ['url' => '/devops', 'icon' => 'cloud-upload-outline'],
+    'System & Network' => ['url' => '/system-network', 'icon' => 'construct-outline'],
+    'Mobile' => ['url' => '/mobile', 'icon' => 'phone-portrait-outline'],
+    'Quality Assurance' => ['url' => '/quality-assurance', 'icon' => 'checkmark-circle-outline'],
+    'Design' => ['url' => '/design', 'icon' => 'color-palette-outline'],
+    'Technical Writing' => ['url' => '/technical-writing', 'icon' => 'document-text-outline'],
+    'Project Management' => ['url' => '/project-management', 'icon' => 'bar-chart-outline'],
+    'IT Support' => ['url' => '/it-support', 'icon' => 'settings-outline'],
+    'Internship' => ['url' => '/internship', 'icon' => 'school']
+];
 ?>
 
 <nav class="fixed top-0 z-50 w-full bg-[#222] border-b border-gray-200">
