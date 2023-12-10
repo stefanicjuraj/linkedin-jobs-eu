@@ -2,6 +2,15 @@
 
 <img src="./lib/assets/home.png" height="100%" width="100%">
 
+<div align="center">
+<br>
+
+**[linkedin-jobs-eu.vercel.app](https://linkedin-jobs-eu.vercel.app/)**
+
+![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=linkedin-jobs-eu&style=for-the-badge)
+<br>
+</div>
+
 PHP web application designed to automate viewing job postings from LinkedIn within the IT industry departments of countries in the European Union. The application displays data by utilizing a [scraper widget](https://github.com/stefanicjuraj/scraper-widget) to target URLs embedded with query parameters to display the corresponding job postings.
 
 ## Departments
