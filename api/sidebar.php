@@ -28,13 +28,6 @@ $pages = [
                     <span class="self-center text-xl text-white font-bold sm:text-2xl whitespace-nowrap">linkedin-jobs-eu</span>
                 </a>
             </div>
-            <div class="flex items-center">
-                <div class="flex items-center mr-3">
-                    <div>
-                        <p class="text-lg text-white font-bold">📍 Europe</p>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
 </nav>
