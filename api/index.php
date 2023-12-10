@@ -67,6 +67,22 @@ if ($_SERVER['REQUEST_URI'] === '/frontend') {
     <!-- sidebar -->
     <?php include 'sidebar.php' ?>
 
+    <!-- content -->
+    <div class="mt-32 p-4">
+        <div class="mx-auto">
+            <div class="flex flex-col items-center justify-center">
+                <h1 class="text-4xl font-extrabold text-center">linkedin-jobs-eu</h1>
+                <p class="mt-8 w-2/3 sm:w-1/3 text-xl text-center">
+                    PHP web application designed to automate viewing job postings from LinkedIn within the IT industry departments of countries in the European Union.
+                </p>
+                <a class="mt-8 px-8 py-4 text-base font-medium text-center inline-flex items-center text-black bg-gray-100 rounded-lg">
+                    View all positions
+                    <ion-icon name="arrow-down-outline" class="ml-2"></ion-icon>
+                </a>
+            </div>
+        </div>
+    </div>
+
     <!-- script -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.0.0/flowbite.min.js"></script>
 
