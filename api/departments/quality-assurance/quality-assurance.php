@@ -20,6 +20,13 @@
     body {
         font-family: 'Inter', sans-serif;
     }
+    iframe {
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+        background-color: #fff;
+        max-width: 100%;
+    }
 </style>
 
 <body>
