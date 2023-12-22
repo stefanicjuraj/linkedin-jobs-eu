@@ -17,6 +17,9 @@ if ($_SERVER['REQUEST_URI'] === '/frontend') {
 } elseif ($_SERVER['REQUEST_URI'] === '/system-network') {
     require_once __DIR__ . '/departments/system-network/system-network.php';
     exit;
+} elseif ($_SERVER['REQUEST_URI'] === '/cybersecurity') {
+    require_once __DIR__ . '/departments/cybersecurity/cybersecurity.php';
+    exit;
 } elseif ($_SERVER['REQUEST_URI'] === '/mobile') {
     require_once __DIR__ . '/departments/mobile/mobile.php';
     exit;
@@ -60,6 +63,7 @@ if ($_SERVER['REQUEST_URI'] === '/frontend') {
     body {
         font-family: 'Inter', sans-serif;
     }
+
     iframe {
         margin-left: auto;
         margin-right: auto;
