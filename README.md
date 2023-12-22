@@ -27,6 +27,8 @@ PHP web application designed to automate viewing job postings from LinkedIn with
 
 - **[System & Network](https://linkedin-jobs-eu.vercel.app/system-network)**
 
+- **[Cybersecurity](https://linkedin-jobs-eu.vercel.app/cybersecurity)**
+
 - **[Mobile](https://linkedin-jobs-eu.vercel.app/mobile)**
 
 - **[Quality Assurance](https://linkedin-jobs-eu.vercel.app/quality-assurance)**
