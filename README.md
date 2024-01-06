@@ -48,3 +48,9 @@ PHP web application designed to automate viewing job postings from LinkedIn with
 - **[IT Support](https://linkedin-jobs-eu.vercel.app/it-support)**
 
 - **[Internship](https://linkedin-jobs-eu.vercel.app/internship)**
+
+## Technology
+
+![php][php]
+
+[php]: https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white
